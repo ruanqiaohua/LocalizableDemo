@@ -7,4 +7,4 @@ genstrings -o zh-Hans.lproj *.m
 
 genstrings -o en.lproj *.m
 
-[!image](https://github.com/ruanqiaohua/LocalizableDemo/timg.jpg)
+![image](https://github.com/ruanqiaohua/LocalizableDemo/timg.jpg)
