@@ -7,4 +7,4 @@ genstrings -o zh-Hans.lproj *.m
 
 genstrings -o en.lproj *.m
 
-![video](https://github.com/ruanqiaohua/LocalizableDemo/blob/master/localizable.mp4)
+![image](https://github.com/ruanqiaohua/LocalizableDemo/blob/master/localizable.gif)
